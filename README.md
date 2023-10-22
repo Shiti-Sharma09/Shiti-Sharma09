@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shiti Sharma</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">I am a budding web developer who dives deep into the vast ocean of web technologies. Currently I am immersed in the dynamic world of JavaScript, dedicating each day to refine my skills. Being a woman in tech, I'm proud to be part of a movement that values diversity and inclusivity. Committed to lifelong learning and ready to COLLABORATE, CONTRIBUTE & GROW.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiti-sharma09&label=Profile%20views&color=0e75b6&style=flat" alt="shiti-sharma09" /> </p>
 
