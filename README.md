@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shiti Sharma</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiti-sharma09&label=Profile%20views&color=0e75b6&style=flat" alt="shiti-sharma09" /> </p>
 
