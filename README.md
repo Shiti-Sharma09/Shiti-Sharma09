@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiti-sharma09&show_icons=true&locale=en&layout=compact" alt="shiti-sharma09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiti-sharma09&show_icons=true&locale=en" alt="shiti-sharma09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiti-sharma09&" alt="shiti-sharma09" /></p>
