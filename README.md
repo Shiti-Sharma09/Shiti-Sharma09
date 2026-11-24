@@ -5,40 +5,50 @@
   <a href="https://linkedin.com/in/shitisharma" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/shitisharma" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="mailto:shitisharma.work@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://instagram.com/shitii_sharma" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
 
-### **About Me**
-- 🔭 **Current Focus:** Building production-grade, cost-optimized, and secure AI systems (Air-gapped RAG, Multi-Agent Orchestration, and Vector Economics).
-- 💼 **Experience:** Architected enterprise-scale AI pipelines across government defense, healthcare, legal automation, and neuroscience analytics.
-- 🏆 **Community & Leadership:** SheCodes & SheFi Scholar '25[cite: 5, 7], active contributor to Google Developer Groups & Women Techmakers[cite: 5, 7], and AI/ML judge/mentor across 20+ events[cite: 5, 7].
-- 📫 **Reach out:** shitisharma.work@gmail.com[cite: 7]
+### **🚀 About Me**
+- 🔭 **What I'm building:** Production-grade, cost-optimized, and secure AI systems—spanning air-gapped RAG pipelines, multi-agent orchestration, and vector economics.
+- 💼 **Where I've been:** Architected enterprise-scale AI solutions across government defense, healthcare automation, legal tech, and neuroscience analytics.
+- 🏆 **Community & Leadership:** SheCodes & SheFi Scholar '25[cite: 5, 7], active contributor to Google Developer Groups & Women Techmakers[cite: 5, 7], and AI/ML judge/mentor across 20+ hackathons/events[cite: 5, 7].
+- 📫 **Let's connect:** shitisharma.work@gmail.com[cite: 7]
 
 ---
 
-### **Core Technical Stack**
+### **🛠️ Featured Systems & Engineering Impact**
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Generative AI & Agents** | LangGraph, OpenAI Agents SDK, AWS Strands, Model Context Protocol (MCP), Multi-Agent Systems, RAG |
-| **Model Optimization** | vLLM, Ollama, llama.cpp, LoRA/PEFT, GGUF/AWQ Quantization, Latency & Token Optimization |
-| **ML & Computer Vision** | PyTorch, TensorFlow, ONNX Runtime, Vision-Language Models (VLMs), YOLOv8, SAM3, Surya OCR, Whisper |
-| **Retrieval & Databases** | Hybrid Search (BM25 + Dense), RRF, Cross-Encoder Reranking, Qdrant, FAISS, Pinecone, PostgreSQL, Redis, MongoDB |
-| **Backend & Cloud** | Python, TypeScript, FastAPI, Next.js, AWS (ECS, Lambda, API Gateway), Docker, Terraform, LangSmith, RAGAS |
+- 🛡️ **Air-Gapped Defense RAG & OCR (Ministry of Defence):** Built an offline document intelligence pipeline for 50,000+ unstructured files using Surya OCR and local Mistral LLMs, reducing Character Error Rate by 38%[cite: 7].
+- 📊 **Multimodal Marketing Analytics (DeCrypt):** Led a 5-engineer team to construct a video/audio pipeline (SAM3, YOLOv8, Whisper, Gemini) extracting 180 ad KPIs while cutting inference costs by 72% and latency by ~70%[cite: 7].
+- ⚖️ **Multi-Agent Legal Assistant (MetaLegal):** Developed a production multi-agent framework using the OpenAI Agents SDK with strict deterministic guardrails, achieving an 80% autonomous resolution rate[cite: 7].
+- 🔍 **Proximity Retrieval Engine (Virtual Intros):** Designed a Qdrant-based semantic search platform utilizing an optimized 768-dim model that slashed vector storage footprints by 75% while maintaining 96% retrieval quality[cite: 8].
 
 ---
 
-### **Featured Projects & Systems**
+### **💻 Frameworks, Libraries & Tools**
 
-- **Air-Gapped Defense RAG & OCR (Ministry of Defence):** Offline document intelligence pipeline processing 50,000+ unstructured files with Surya OCR and local Mistral LLMs, reducing Character Error Rate by 38%[cite: 7].
-- **Multimodal Marketing Analytics (DeCrypt):** Scalable CV and audio pipeline (SAM3, YOLOv8, Whisper, Gemini) extracting 180 ad KPIs while cutting inference costs by 72% and latency by ~70%[cite: 7].
-- **Multi-Agent Legal Assistant (MetaLegal):** Production multi-agent orchestration framework using OpenAI Agents SDK with strict deterministic guardrails, achieving an 80% autonomous resolution rate[cite: 7].
-- **Proximity Retrieval Engine (Virtual Intros):** Qdrant-based semantic search engine utilizing an optimized 768-dim model that slashed vector storage footprints by 75% while maintaining 96% retrieval quality[cite: 8].
-
----
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/shitii_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <!-- GenAI & Agents -->
+  <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  
+  <!-- Databases & Vector Search -->
+  <img src="https://img.shields.io/badge/Qdrant-FF5722?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <!-- Backend & Cloud -->
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
