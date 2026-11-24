@@ -10,17 +10,17 @@
 ### **🚀 About Me**
 - 🔭 **What I'm building:** Production-grade, cost-optimized, and secure AI systems—spanning air-gapped RAG pipelines, multi-agent orchestration, and vector economics.
 - 💼 **Where I've been:** Architected enterprise-scale AI solutions across government defense, healthcare automation, legal tech, and neuroscience analytics.
-- 🏆 **Community & Leadership:** SheCodes & SheFi Scholar '25[cite: 5, 7], active contributor to Google Developer Groups & Women Techmakers[cite: 5, 7], and AI/ML judge/mentor across 20+ hackathons/events[cite: 5, 7].
-- 📫 **Let's connect:** shitisharma.work@gmail.com[cite: 7]
+- 🏆 **Community & Leadership:** SheCodes & SheFi Scholar '25, active contributor to Google Developer Groups & Women Techmakers, and AI/ML judge/mentor across 20+ hackathons/events.
+- 📫 **Let's connect:** shitisharma.work@gmail.com
 
 ---
 
 ### **🛠️ Featured Systems & Engineering Impact**
 
-- 🛡️ **Air-Gapped Defense RAG & OCR (Ministry of Defence):** Built an offline document intelligence pipeline for 50,000+ unstructured files using Surya OCR and local Mistral LLMs, reducing Character Error Rate by 38%[cite: 7].
-- 📊 **Multimodal Marketing Analytics (DeCrypt):** Led a 5-engineer team to construct a video/audio pipeline (SAM3, YOLOv8, Whisper, Gemini) extracting 180 ad KPIs while cutting inference costs by 72% and latency by ~70%[cite: 7].
-- ⚖️ **Multi-Agent Legal Assistant (MetaLegal):** Developed a production multi-agent framework using the OpenAI Agents SDK with strict deterministic guardrails, achieving an 80% autonomous resolution rate[cite: 7].
-- 🔍 **Proximity Retrieval Engine (Virtual Intros):** Designed a Qdrant-based semantic search platform utilizing an optimized 768-dim model that slashed vector storage footprints by 75% while maintaining 96% retrieval quality[cite: 8].
+- 🛡️ **Air-Gapped Defense RAG & OCR (Ministry of Defence):** Built an offline document intelligence pipeline for 50,000+ unstructured files using Surya OCR and local Mistral LLMs, reducing Character Error Rate by 38%.
+- 📊 **Multimodal Marketing Analytics (DeCrypt):** Led a 5-engineer team to construct a video/audio pipeline (SAM3, YOLOv8, Whisper, Gemini) extracting 180 ad KPIs while cutting inference costs by 72% and latency by ~70%.
+- ⚖️ **Multi-Agent Legal Assistant (MetaLegal):** Developed a production multi-agent framework using the OpenAI Agents SDK with strict deterministic guardrails, achieving an 80% autonomous resolution rate.
+- 🔍 **Proximity Retrieval Engine (Virtual Intros):** Designed a Qdrant-based semantic search platform utilizing an optimized 768-dim model that slashed vector storage footprints by 75% while maintaining 96% retrieval quality.
 
 ---
 
