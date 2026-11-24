@@ -1,18 +1,44 @@
-# myProfile
-
-
 <h1 align="center">Hi 👋, I'm Shiti Sharma</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<h3 align="center">AI/ML Product Engineer | Systems & Production AI</h3>
 
-- 🌱 I’m currently learning **Agentic AI**
+<p align="center">
+  <a href="https://linkedin.com/in/shitisharma" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://github.com/shitisharma" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="mailto:shitisharma.work@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
 
-- 📫 How to reach me **shitiworks5@gmail.com**
+---
+
+### **About Me**
+- 🔭 **Current Focus:** Building production-grade, cost-optimized, and secure AI systems (Air-gapped RAG, Multi-Agent Orchestration, and Vector Economics).
+- 💼 **Experience:** Architected enterprise-scale AI pipelines across government defense, healthcare, legal automation, and neuroscience analytics.
+- 🏆 **Community & Leadership:** SheCodes & SheFi Scholar '25[cite: 5, 7], active contributor to Google Developer Groups & Women Techmakers[cite: 5, 7], and AI/ML judge/mentor across 20+ events[cite: 5, 7].
+- 📫 **Reach out:** shitisharma.work@gmail.com[cite: 7]
+
+---
+
+### **Core Technical Stack**
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Generative AI & Agents** | LangGraph, OpenAI Agents SDK, AWS Strands, Model Context Protocol (MCP), Multi-Agent Systems, RAG |
+| **Model Optimization** | vLLM, Ollama, llama.cpp, LoRA/PEFT, GGUF/AWQ Quantization, Latency & Token Optimization |
+| **ML & Computer Vision** | PyTorch, TensorFlow, ONNX Runtime, Vision-Language Models (VLMs), YOLOv8, SAM3, Surya OCR, Whisper |
+| **Retrieval & Databases** | Hybrid Search (BM25 + Dense), RRF, Cross-Encoder Reranking, Qdrant, FAISS, Pinecone, PostgreSQL, Redis, MongoDB |
+| **Backend & Cloud** | Python, TypeScript, FastAPI, Next.js, AWS (ECS, Lambda, API Gateway), Docker, Terraform, LangSmith, RAGAS |
+
+---
+
+### **Featured Projects & Systems**
+
+- **Air-Gapped Defense RAG & OCR (Ministry of Defence):** Offline document intelligence pipeline processing 50,000+ unstructured files with Surya OCR and local Mistral LLMs, reducing Character Error Rate by 38%[cite: 7].
+- **Multimodal Marketing Analytics (DeCrypt):** Scalable CV and audio pipeline (SAM3, YOLOv8, Whisper, Gemini) extracting 180 ad KPIs while cutting inference costs by 72% and latency by ~70%[cite: 7].
+- **Multi-Agent Legal Assistant (MetaLegal):** Production multi-agent orchestration framework using OpenAI Agents SDK with strict deterministic guardrails, achieving an 80% autonomous resolution rate[cite: 7].
+- **Proximity Retrieval Engine (Virtual Intros):** Qdrant-based semantic search engine utilizing an optimized 768-dim model that slashed vector storage footprints by 75% while maintaining 96% retrieval quality[cite: 8].
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shitisharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shitisharma" height="30" width="40" /></a>
-<a href="https://instagram.com/shitii_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shitii_sharma" height="30" width="40" /></a>
+<a href="https://instagram.com/shitii_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
